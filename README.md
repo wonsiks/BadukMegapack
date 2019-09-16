@@ -8,21 +8,21 @@ This installer is made for baduk players who are not familiar with computer to u
 This megapack contains followings.
 
 ▶Lizzie v0.7 beta by zsalch(190818)<br>
-▶LizGoban(190915)
-▶Sabaki v0.43.3
-▶MSVC++ 2015 Redistributable(x64)
-▶MSVC++ 2012 Redistributable(x64)
-▶Java 1.8.0_201(x64)
+▶LizGoban(190915)<br>
+▶Sabaki v0.43.3<br>
+▶MSVC++ 2015 Redistributable(x64)<br>
+▶MSVC++ 2012 Redistributable(x64)<br>
+▶Java 1.8.0_201(x64)<br>
 
-▶KataGo v1.2 OpenCL version
-▶LeelaZero v0.17 TensorCore by zenstone
+▶KataGo v1.2 OpenCL version<br>
+▶LeelaZero v0.17 TensorCore by zenstone<br>
 
-▶LeelaZero weight file(1) : 244(40b)
-▶ELF Opengo weight file(1) : v2
-▶MiniGo weight file(1) : v17(990)
-▶KataGo weight file(1) : 20x256
-▶Leela Master weight files(3) : OZ38, OX24, GXAA
-▶PhoenixGo weight file(1) : v1
+▶LeelaZero weight file(1) : 244(40b)<br>
+▶ELF Opengo weight file(1) : v2<br>
+▶MiniGo weight file(1) : v17(990)<br>
+▶KataGo weight file(1) : 20x256<br>
+▶Leela Master weight files(3) : OZ38, OX24, GXAA<br>
+▶PhoenixGo weight file(1) : v1<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
