@@ -38,3 +38,5 @@ Thanks.
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/lizzie.png">
+
+<img src="https://github.com/wonsiks/BadukMegapack/blob/master/lizgoban.png">
