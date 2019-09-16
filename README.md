@@ -1,4 +1,4 @@
-# BadukMegapack
+# BadukMegapack for Windows
 Installer for various AI Baduk(Go) softwares
 
 https://drive.google.com/uc?export=download&id=1lzizrba1YGl5vNmaN4zzkEJSkWWZ77mz
