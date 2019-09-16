@@ -26,6 +26,7 @@ This megapack contains followings.
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
+For more information visit https://blog.naver.com/wonsiksnz
 
 Thanks.
 
