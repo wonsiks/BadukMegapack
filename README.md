@@ -7,7 +7,7 @@ This installer is made for baduk players who are not familiar with computer to u
 
 This megapack contains followings.
 
-▶Lizzie v0.7 beta by zsalch(190818)
+▶Lizzie v0.7 beta by zsalch(190818)<br>
 ▶LizGoban(190915)
 ▶Sabaki v0.43.3
 ▶MSVC++ 2015 Redistributable(x64)
