@@ -1,7 +1,7 @@
 # BadukMegapack
 Installer for various AI Baduk softwares
 
-https://drive.google.com/open?id=1lzizrba1YGl5vNmaN4zzkEJSkWWZ77mz
+https://drive.google.com/uc?export=download&id=1lzizrba1YGl5vNmaN4zzkEJSkWWZ77mz
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
