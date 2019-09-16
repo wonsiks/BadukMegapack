@@ -5,6 +5,8 @@ https://drive.google.com/uc?export=download&id=1lzizrba1YGl5vNmaN4zzkEJSkWWZ77mz
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
+Note: This installer needs Graphics card installed. (nVidia GTX 1050 Ti or more)
+
 This megapack contains followings.
 
 ▶Lizzie v0.7 beta by zsalch(190818)<br>
