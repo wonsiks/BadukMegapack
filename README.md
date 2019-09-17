@@ -1,7 +1,7 @@
 # BadukMegapack for Windows
 Installer for various AI Baduk(Go) softwares
 
-https://drive.google.com/uc?export=download&id=17KfVs2V3bIFqe-NxZs6Q88LsXCWGBXFf
+https://drive.google.com/uc?export=download&id=1ak9F2-Z0Je9N7byryxgKItmilAcjPmsk
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -10,7 +10,7 @@ Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVi
 This megapack contains followings.
 
 ▶<a href="https://github.com/zsalch/lizzie" target="_blank">Lizzie</a> v0.7 beta by zsalch(190818)<br>
-▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a>(190916)<br>
+▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a>(190917)<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 ▶MSVC++ 2015 Redistributable(x64)<br>
 ▶MSVC++ 2012 Redistributable(x64)<br>
@@ -33,7 +33,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-17 Sep, 2019
+18 Sep, 2019
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
