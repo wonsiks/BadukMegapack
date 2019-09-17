@@ -5,7 +5,7 @@ https://drive.google.com/uc?export=download&id=1XDSBuPD8pbTcOE0JnFCymxGUEGHXjMyr
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
-Note: This megapack needs Graphics card installed. (nVidia GTX 1050 Ti or more)
+Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVidia GTX 1050 Ti or more)
 
 This megapack contains followings.
 
