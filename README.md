@@ -1,7 +1,7 @@
 # BadukMegapack for Windows
 Installer for various AI Baduk(Go) softwares
 
-https://drive.google.com/uc?export=download&id=1XIJsFOvt1LeCEwkuBexnt5e2wCkUGi5L
+https://drive.google.com/uc?export=download&id=1w8XM8O5GVy0M1NOs2WkNEkpLvi271-vw
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -20,9 +20,10 @@ This megapack contains followings.
 ▶Java 1.8.0_201(x64)<br>
 
 ▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.2 OpenCL version<br>
-▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore by zenstone<br>
+▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
+▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 
-▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(1) : 244(40b)<br>
+▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(1) : 245(40b)<br>
 ▶<a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 ▶<a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
 ▶KataGo weight file(1) : 20x256<br>
