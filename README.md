@@ -37,7 +37,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-19 Sep, 2019
+30 Sep, 2019
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
