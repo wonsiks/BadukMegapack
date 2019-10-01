@@ -12,7 +12,7 @@ https://drive.google.com/uc?export=download&id=1R_m1ecFRgsINCcMBTgon-1MWTB0dQZIz
 
 This megapack contains followings.
 
-▶<a href="https://github.com/zsalch/lizzie" target="_blank">Lizzie</a> v0.7 beta by zsalch(190818)<br>
+▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7 official release<br>
 ▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> by kaorahi(190929)<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 ▶MSVC++ 2015 Redistributable(x64)<br>
