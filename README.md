@@ -1,7 +1,7 @@
 # BadukMegapack for Windows
 Installer for various AI Baduk(Go) softwares
 
-https://drive.google.com/uc?export=download&id=1DzGspYiDLnZZP-1mOAEhccIAlMTGXth5
+https://drive.google.com/uc?export=downlaod&id=14MKvYWZTE3tKdX5HbJWTCQSWISdDRlW3
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -12,7 +12,7 @@ https://drive.google.com/uc?export=download&id=1R_m1ecFRgsINCcMBTgon-1MWTB0dQZIz
 
 This megapack contains followings.
 
-▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7 official release<br>
+▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.1 official release<br>
 ▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> by kaorahi(190929)<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 ▶MSVC++ 2015 Redistributable(x64)<br>
@@ -23,7 +23,7 @@ This megapack contains followings.
 ▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 
-▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(1) : 246(40b)<br>
+▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(1) : 247(40b)<br>
 ▶<a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 ▶<a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
 ▶KataGo weight file(1) : 20x256<br>
@@ -37,7 +37,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-4 Oct, 2019
+13 Oct, 2019
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
