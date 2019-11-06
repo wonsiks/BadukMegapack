@@ -1,5 +1,5 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.11.3a
+Installer for various AI Baduk(Go) softwares v3.11.3b
 
 https://drive.google.com/uc?export=download&id=1CI03gG8S02hJJT49ItgrQ0YjSqVejFuN
 
