@@ -1,7 +1,7 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.11.3b 
+Installer for various AI Baduk(Go) softwares v3.11.3c
 
-https://drive.google.com/uc?export=download&id=1CI03gG8S02hJJT49ItgrQ0YjSqVejFuN
+https://drive.google.com/uc?export=download&id=14MHZ7-G86vkQZg_T2HPvNph5yOb8LaJ0
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -24,13 +24,13 @@ This megapack contains followings.
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.4<br>
 
-▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(1) : 249(40b)<br>
+▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(1) : 253(40b)<br>
 ▶<a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 ▶<a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
 ▶KataGo weight file(1) : 20x256<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(3) : OZ38, OX24, GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 57(6b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 98(6b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
@@ -39,7 +39,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-6 Nov, 2019
+17 Nov, 2019
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
