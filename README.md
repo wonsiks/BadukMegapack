@@ -8,7 +8,7 @@ This installer is made for baduk players who are not familiar with computer to u
 Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVidia GTX 1050 Ti or more)
 
 If you want to use CUDA version of KataGo then download KataGo1.2CUDA.zip from below link and extract all files into C:\baduk\lizzie folder.<br>
-https://drive.google.com/uc?export=download&id=1R_m1ecFRgsINCcMBTgon-1MWTB0dQZIz
+https://drive.google.com/uc?export=download&id=1EFFa12uzjni70qxOzDmyaoVEFVz-r1B2
 
 This megapack contains followings.
 
