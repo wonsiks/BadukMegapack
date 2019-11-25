@@ -1,7 +1,7 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.11.4a
+Installer for various AI Baduk(Go) softwares v3.12.0
 
-https://drive.google.com/uc?export=download&id=1RgEGly9Ud51DDWz04kMNQMGLOnzEBBJA
+https://drive.google.com/uc?export=download&id=1xmnm3sYC39GT6j1GUb7M0qELYoHM4Vuu
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -42,7 +42,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-24 Nov, 2019
+25 Nov, 2019
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
