@@ -1,7 +1,7 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.13.1
+Installer for various AI Baduk(Go) softwares v3.13.1a
 
-https://drive.google.com/uc?export=download&id=15iYICzh_AeegIPD88mnqSZLyXgHAyQZR
+https://drive.google.com/uc?export=download&id=1tBbbxswUhFV2xv4Fv8jiwXdfM8q-uQg_
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -35,7 +35,7 @@ This megapack contains followings.
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
 (Bonus) Here's a light version of Lizzie installer for 32bit Windows without GPU.<br>
-https://drive.google.com/uc?export=download&id=1tiMWlRtEoKxXDGiQeK9zHt0aqHTIqcrl
+https://drive.google.com/uc?export=download&id=1kjAf_ivpTJjT6H5DKTYflGfnz1SdQ-Th
 
 For more information visit https://blog.naver.com/wonsiksnz
 
