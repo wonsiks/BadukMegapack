@@ -1,14 +1,14 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.13.0
+Installer for various AI Baduk(Go) softwares v3.13.1
 
-https://drive.google.com/uc?export=download&id=1qVK-uzoCrENOb38gELlD1zCLv0ZNNgBu
+https://drive.google.com/uc?export=download&id=15iYICzh_AeegIPD88mnqSZLyXgHAyQZR
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
 Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVidia GTX 1050 Ti or more)
 
 If you want to use CUDA version of KataGo then download KataGo1.3CUDA.zip from below link and extract all files into C:\baduk\lizzie folder.<br>
-https://drive.google.com/uc?export=download&id=1B3khWLn55_TiDAB5RuZN-ztIHMr2e1H-
+https://drive.google.com/uc?export=download&id=1mEvDFo1jsJG_BsWE9G9KtHL039baZIlp
 
 This megapack contains followings.
 
@@ -19,7 +19,7 @@ This megapack contains followings.
 ▶MSVC++ 2012 Redistributable(x64)<br>
 ▶Java 1.8.0_201(x64)<br>
 
-▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.3 OpenCL version<br>
+▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.3.1 OpenCL version<br>
 ▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
@@ -30,19 +30,19 @@ This megapack contains followings.
 ▶KataGo weight file(1) : 20x256<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(3) : OZ38, OX24, GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 238(9b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 249(9b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
 (Bonus) Here's a light version of Lizzie installer for 32bit Windows without GPU.<br>
-https://drive.google.com/uc?export=download&id=1RqOo5uYIJMbpvGRh_HeWL3mk09cfeOGO
+https://drive.google.com/uc?export=download&id=1tiMWlRtEoKxXDGiQeK9zHt0aqHTIqcrl
 
 For more information visit https://blog.naver.com/wonsiksnz
 
 Thanks.
 
 
-13 Jan, 2020
+18 Jan, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
