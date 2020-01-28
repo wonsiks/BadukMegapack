@@ -7,8 +7,8 @@ This installer is made for baduk players who are not familiar with computer to u
 
 Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVidia GTX 1050 Ti or more)
 
-If you want to use CUDA version of KataGo then download KataGo1.3CUDA.zip from below link and extract all files into C:\baduk\lizzie folder.<br>
-https://drive.google.com/uc?export=download&id=1KXBwv7BTl35W2z6EiKo_i4wmgVrNC1t5
+If you want to use CUDA version of KataGo then download KataGo1.3.1CUDA.zip from below link and extract all files into C:\baduk\lizzie folder.<br>
+https://drive.google.com/uc?export=download&id=1mzq-0ox_V0bJDhkW323gL9DTApjzpuSy
 
 This megapack contains followings.
 
@@ -35,7 +35,7 @@ This megapack contains followings.
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
 (Bonus) Here's a light version of Lizzie installer for 32bit Windows without GPU.<br>
-https://drive.google.com/uc?export=download&id=1kjAf_ivpTJjT6H5DKTYflGfnz1SdQ-Th
+https://drive.google.com/uc?export=download&id=1PwzbXrjBNIgy_Yog5OoRr5u4VB7fcSnV
 
 For more information visit https://blog.naver.com/wonsiksnz
 
