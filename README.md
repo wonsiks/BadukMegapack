@@ -1,14 +1,14 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.14.0
+Installer for various AI Baduk(Go) softwares v3.14.1
 
-https://drive.google.com/uc?export=download&id=1owTD9ilJbnjvtqozR4wig-1aSAdd_sQ-
+https://drive.google.com/uc?export=download&id=1_qhdDvrWLuzaSn13gvnqljpYr4qsNXnp
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
 Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVidia GTX 1050 Ti or more)
 
-If you want to use CUDA version of KataGo then download KataGo1.3.1CUDA.zip from below link and extract all files into C:\baduk\lizzie folder.<br>
-https://drive.google.com/uc?export=download&id=1mzq-0ox_V0bJDhkW323gL9DTApjzpuSy
+If you want to use CUDA version of KataGo then download KataGo1.3.2CUDA.zip from below link and extract all files into C:\baduk\lizzie folder.<br>
+https://drive.google.com/uc?export=download&id=1SXzHo3YNhJ56ZlIumsAt9nYnMObvDx8L
 
 This megapack contains followings.
 
@@ -19,7 +19,7 @@ This megapack contains followings.
 ▶MSVC++ 2012 Redistributable(x64)<br>
 ▶Java 1.8.0_201(x64)<br>
 
-▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.3.1 OpenCL version<br>
+▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.3.2 OpenCL version<br>
 ▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
@@ -30,19 +30,19 @@ This megapack contains followings.
 ▶KataGo weight file(1) : 20x256<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(3) : OZ38, OX24, GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 262(9b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 265(9b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
 (Bonus) Here's a light version of Lizzie installer for 32bit Windows without GPU.<br>
-https://drive.google.com/uc?export=download&id=1PwzbXrjBNIgy_Yog5OoRr5u4VB7fcSnV
+https://drive.google.com/uc?export=download&id=1KuuF4Xi7ZNjl3zcy98SwzGojbdCwHlJE
 
 For more information visit https://blog.naver.com/wonsiksnz
 
 Thanks.
 
 
-30 Jan, 2020
+2 Feb, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
