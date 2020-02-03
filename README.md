@@ -30,7 +30,7 @@ This megapack contains followings.
 ▶KataGo weight file(1) : 20x256<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(3) : OZ38, OX24, GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 265(9b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 266(9b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
