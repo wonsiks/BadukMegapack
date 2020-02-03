@@ -1,14 +1,14 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.14.1
+Installer for various AI Baduk(Go) softwares v3.14.2
 
-https://drive.google.com/uc?export=download&id=1_qhdDvrWLuzaSn13gvnqljpYr4qsNXnp
+https://drive.google.com/uc?export=download&id=10dlTFZGjzjvRBkgSjBVH1vvAmC9fO0op
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
 Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVidia GTX 1050 Ti or more)
 
 If you want to use CUDA version of KataGo then download KataGo1.3.2CUDA.zip from below link and extract all files into C:\baduk\lizzie folder.<br>
-https://drive.google.com/uc?export=download&id=1SXzHo3YNhJ56ZlIumsAt9nYnMObvDx8L
+https://drive.google.com/uc?export=download&id=1f5e7sjgVhnPHx71983lRIRMNwoRaxjkf
 
 This megapack contains followings.
 
@@ -35,14 +35,14 @@ This megapack contains followings.
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
 (Bonus) Here's a light version of Lizzie installer for 32bit Windows without GPU.<br>
-https://drive.google.com/uc?export=download&id=1KuuF4Xi7ZNjl3zcy98SwzGojbdCwHlJE
+https://drive.google.com/uc?export=download&id=1Es72AKJ_bj276ZCi0BZc9-NY8L-uGaQ4
 
 For more information visit https://blog.naver.com/wonsiksnz
 
 Thanks.
 
 
-2 Feb, 2020
+3 Feb, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
