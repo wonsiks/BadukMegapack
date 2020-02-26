@@ -35,7 +35,7 @@ This megapack contains followings.
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
 (Bonus) Here's a light version of Lizzie installer for 32bit Windows without GPU.<br>
-https://drive.google.com/uc?export=download&id=1NyC0VoAqaFZ5swEWKcdoTuF1KUBK0lyD
+https://drive.google.com/uc?export=download&id=1s5wm0kgSoZyq5yZ7-J8xsRcuDHOBpYt5
 
 For more information visit https://blog.naver.com/wonsiksnz
 
