@@ -1,14 +1,14 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.14.3
+Installer for various AI Baduk(Go) softwares v3.15
 
-https://drive.google.com/uc?export=download&id=1WtnRUKtLWa_GT4HFr6_8hPikBE81D1BJ
+https://drive.google.com/uc?export=download&id=1IN8w4MLWD1Hkl7eAhGwwFtbP-S_WqOyi
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
 Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVidia GTX 1050 Ti or more)
 
 If you want to use CUDA version of KataGo then download KataGo1.3.2CUDA.zip from below link and extract all files into C:\baduk\lizzie folder.<br>
-https://drive.google.com/uc?export=download&id=1f5e7sjgVhnPHx71983lRIRMNwoRaxjkf
+https://drive.google.com/uc?export=download&id=1MlICiPfjniJzPoBBrWsmWhJPpUg7glZY
 
 This megapack contains followings.
 
@@ -19,30 +19,30 @@ This megapack contains followings.
 ▶MSVC++ 2012 Redistributable(x64)<br>
 ▶Java 1.8.0_201(x64)<br>
 
-▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.3.2 OpenCL version<br>
+▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.3.3 OpenCL version<br>
 ▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
 
-▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(1) : 264(40b)<br>
+▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(1) : 266(40b)<br>
 ▶<a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 ▶<a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
-▶KataGo weight file(1) : 20x256<br>
-▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(3) : OZ38, OX24, GXAA<br>
+▶KataGo weight file(3) : 30x320, 20x256, 15x192<br>
+▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 279(12b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 283(12b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
 (Bonus) Here's a light version of Lizzie installer for 32bit Windows without GPU.<br>
-https://drive.google.com/uc?export=download&id=1s5wm0kgSoZyq5yZ7-J8xsRcuDHOBpYt5
+https://drive.google.com/uc?export=download&id=1FuIIhrkjdWuKzjHj4Vgzbcvsnjqx1i5t
 
 For more information visit https://blog.naver.com/wonsiksnz
 
 Thanks.
 
 
-23 Feb, 2020
+29 Feb, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
