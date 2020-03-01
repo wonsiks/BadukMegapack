@@ -1,14 +1,14 @@
 # BadukMegapack for Windows
 Installer for various AI Baduk(Go) softwares v3.15.0a
 
-https://drive.google.com/uc?export=download&id=1TfN94y0prMuvv0HC0WXVGYJkOpDSQPV_
+http://naver.me/xB6ZUCOj
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
 Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVidia GTX 1050 Ti or more)
 
 If you're using RTX2060 or higher model then you can use CUDA version of KataGo then download KataGo1.3.3CUDA.zip from below link and extract all files into C:\baduk\lizzie folder.<br>
-https://drive.google.com/uc?export=download&id=1MlICiPfjniJzPoBBrWsmWhJPpUg7glZY
+http://naver.me/GKMCPmk4
 
 This megapack contains followings.
 
