@@ -1,10 +1,8 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.15.0d<br>
-<a href="https://drive.google.com/uc?export=download&id=1GJIX4ycx6Gcj1fV6lfDWBs3ZG1vBGZ_V">download1</a> | <a href="http://naver.me/5UjqIJHG">download2</a>
+Installer for various AI Baduk(Go) softwares v3.15.1<br>
+<a href="https://drive.google.com/uc?export=download&id=12W0A5VL1Fql2Lu1tWUl2kspkb2p4JxES">download1</a> | <a href="http://naver.me/FAjdAsYu">download2</a>
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
-
-Note: This megapack is for 64bit Windows and needs Graphics card installed. (nVidia GTX 1050 Ti or more)
 
 This megapack contains followings.
 
@@ -19,11 +17,16 @@ This megapack contains followings.
 ▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
+▶<a href="https://github.com/zakki/Ray" target="_blank">Ray 2018 AI Ryusei Competition Version</a><br>
+▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ v2.1.1</a><br>
+▶<a href="https://www.gnu.org/software/gnugo/" target="_blank">gnugo v3.8</a><br>
+▶<a href="https://github.com/pasky/pachi" target="_blank">pachi v12.40</a><br>
+▶<a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego v1.1.4</a><br>
 
-▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(1) : 266(40b)<br>
-▶<a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
-▶<a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
-▶KataGo weight file(3) : 30x320, 20x256, 15x192, 10x128<br>
+▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(5) : 266(40b), bjiyxo 257(20b), bjiyxo 245a(15b), ZQ-i8(10b), Human(6b)<br>
+▶<a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(2) : v1, v2<br>
+▶<a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(3) : v15(990), v16(930), v17(990)<br>
+▶KataGo weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
 ▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 284(12b)<br>
@@ -38,7 +41,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-2 Mar, 2020
+3 Mar, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
