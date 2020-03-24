@@ -1,6 +1,6 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.15.3a<br>
-<a href="https://drive.google.com/uc?export=download&id=1VzdsBso3933ezl_DqZv652HgtX7pyhid">download1</a> | <a href="http://naver.me/F2cEYK5o">download2</a> | <a href="http://naver.me/FwFCAYjw">download3</a>
+Installer for various AI Baduk(Go) softwares v3.15.4<br>
+<a href="https://drive.google.com/uc?export=download&id=1pG9WWXsPF5gS0JYbfqjmGfNuTPA7ymvX">download1</a> | <a href="http://naver.me/F9LUvtH0">download2</a> | <a href="http://naver.me/FHnLjFbO">download3</a>
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -29,7 +29,7 @@ This megapack contains followings.
 ▶KataGo weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 292(12b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 300(12b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
@@ -41,7 +41,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-17 Mar, 2020
+24 Mar, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
