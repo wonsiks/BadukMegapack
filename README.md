@@ -18,7 +18,7 @@ This megapack contains followings.
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
 ▶<a href="https://github.com/zakki/Ray" target="_blank">Ray</a> 2018 AI Ryusei Competition Version<br>
-▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ v2.1.1</a><br>
+▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v2.1.1<br>
 ▶<a href="https://www.gnu.org/software/gnugo/" target="_blank">gnugo</a> v3.8<br>
 ▶<a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.40<br>
 ▶<a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
@@ -34,14 +34,14 @@ This megapack contains followings.
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
 (Bonus) Here's a light version of Lizzie installer for 32bit Windows without GPU.<br>
-<a href="https://drive.google.com/uc?export=download&id=1FeOzZWzh_83KoLuIXh1xT46pF-oAEAaq">download1</a> | <a href="http://naver.me/5pOMOjAo">download2</a>
+<a href="https://drive.google.com/uc?export=download&id=1ZGCbvLkcYXeGgLP0I9BTbFHyigkun_2H">download1</a> | <a href="http://naver.me/F9L24uv8">download2</a>
 
 For more information visit https://blog.naver.com/wonsiksnz
 
 Thanks.
 
 
-5 Apr, 2020
+6 Apr, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
