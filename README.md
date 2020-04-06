@@ -26,7 +26,7 @@ This megapack contains followings.
 ▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(5) : 270(40b), bjiyxo 266(20b), bjiyxo 266a(15b), ZQ-i8(10b), Human(6b)<br>
 ▶<a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 ▶<a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
-▶KataGo weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
+▶<a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
 ▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 311(12b)<br>
