@@ -1,6 +1,6 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.16.4<br>
-<a href="https://drive.google.com/uc?export=download&id=1zgeRN0hop9okK-rwjt7feqnz4qUB9YQA">download1</a> | <a href="http://naver.me/GBISMroX">download2</a> | <a href="http://naver.me/xY0RDFuP">download3</a>
+Installer for various AI Baduk(Go) softwares v3.16.5<br>
+<a href="https://drive.google.com/uc?export=download&id=1BYYsNbxlBDlVuSoTW3q4-5Qh5ADXMC0k">download1</a> | <a href="http://naver.me/xuMNx2JW">download2</a> | <a href="http://naver.me/FWmk4XBa">download3</a>
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -14,7 +14,7 @@ This megapack contains followings.
 ▶MSVC++ 2012 Redistributable(x64)<br>
 ▶Java 1.8.0_201(x64)<br>
 
-▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.3.5<br>
+▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.3.5+bs29<br>
 ▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
@@ -30,7 +30,7 @@ This megapack contains followings.
 ▶<a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 316(12b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 317(12b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
