@@ -1,13 +1,13 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.16.8<br>
-<a href="https://drive.google.com/uc?export=download&id=1dmjT0bp9jJ8C2cFnoptfs4e1ikGU8qxd">download1</a> | <a href="http://naver.me/5tL8ZVj3">download2</a> | <a href="http://naver.me/xY0OgDKy">download3</a>
+Installer for various AI Baduk(Go) softwares v3.16.9<br>
+<a href="https://drive.google.com/uc?export=download&id=1aDX2uRRZkYWsFjTV3GMveQuwcnZMr7nf">download1</a> | <a href="http://naver.me/FpVIpFYI">download2</a> | <a href="http://naver.me/52gsPn35">download3</a>
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
 This megapack contains followings.
 
 ▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.2 official release<br>
-▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.4.1 by kaorahi<br>
+▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.4.2 by kaorahi<br>
 ▶<a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.0 pre-release by sanderland<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
