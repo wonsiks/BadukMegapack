@@ -1,6 +1,6 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v3.16.10<br>
-<a href="https://drive.google.com/uc?export=download&id=1qyNKznqfHNa-CiGvMxL2zB1ISfeUX3K0">download1</a> | <a href="http://naver.me/5I4MIBWU">download2</a> | <a href="http://naver.me/G0Oa76i5">download3</a>
+Installer for various AI Baduk(Go) softwares v4.0<br>
+<a href="https://drive.google.com/uc?export=download&id=1DAcwc83aSVxz1LUaNyyhVPlUGT0yWWVu">download1</a> | <a href="http://naver.me/xPtyYifh">download2</a> | <a href="http://naver.me/FVUZFCtB">download3</a>
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -8,7 +8,7 @@ This megapack contains followings.
 
 ▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.2 official release<br>
 ▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.4.2 by kaorahi<br>
-▶<a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.0.2 pre-release by sanderland<br>
+▶<a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.0.3 by sanderland<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
 ▶MSVC++ 2015 Redistributable(x64)<br>
@@ -31,7 +31,7 @@ This megapack contains followings.
 ▶<a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 328(12b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 331(12b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
@@ -43,7 +43,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-4 May, 2020
+8 May, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
