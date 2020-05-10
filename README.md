@@ -2,9 +2,13 @@
 Installer for various AI Baduk(Go) softwares v4.0<br>
 <a href="https://drive.google.com/uc?export=download&id=1J_SfDEKuTlhLdTw7LlTYLEdPSLIbKchM">download1</a> | <a href="http://naver.me/GhIsyRiF">download2</a> | <a href="http://naver.me/xOf6haW5">download3</a>
 
+Users who installed above BadukMegapack v4.0 can update to v200510 using following update.<br>
+<a href="https://drive.google.com/uc?export=download&id=1Rx5bYk4CmZPKO7143KvM55vCKct_zgZ6">download1</a> | <a href="http://naver.me/5Hv8b1mz">download2</a> | <a href="http://naver.me/FFw0mOxk">download3</a>
+
+
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
-This megapack contains followings.
+This megapack and updater contains followings.
 
 ▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.2 official release<br>
 ▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.4.2 by kaorahi<br>
@@ -15,7 +19,7 @@ This megapack contains followings.
 ▶MSVC++ 2012 Redistributable(x64)<br>
 ▶Java 1.8.0_201(x64)<br>
 
-▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.3.5+bs29<br>
+▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.0<br>
 ▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
@@ -31,7 +35,7 @@ This megapack contains followings.
 ▶<a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 331(12b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 333(12b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
@@ -43,7 +47,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-8 May, 2020
+10 May, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
