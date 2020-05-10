@@ -12,7 +12,7 @@ This megapack and updater contains followings.
 
 ▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.2 official release<br>
 ▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.4.2 by kaorahi<br>
-▶<a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.0.3 by sanderland<br>
+▶<a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.0.4 by sanderland<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
 ▶MSVC++ 2015 Redistributable(x64)<br>
