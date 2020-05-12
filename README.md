@@ -1,10 +1,6 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v4.0<br>
-<a href="https://drive.google.com/uc?export=download&id=1J_SfDEKuTlhLdTw7LlTYLEdPSLIbKchM">download1</a> | <a href="http://naver.me/GhIsyRiF">download2</a> | <a href="http://naver.me/xOf6haW5">download3</a>
-
-Users who installed above BadukMegapack v4.0 can update to v200511 using following update file.<br>
-<a href="https://github.com/wonsiks/BadukMegapack/blob/master/Baduk_Megapack_Update_200511_x64.exe">update download</a>
-
+Installer for various AI Baduk(Go) softwares v4.1.200512<br>
+<a href="https://drive.google.com/uc?export=download&id=1G1baL_cP6OzK33uZ_VtzbQRrZmg2Ypu5">download1</a> | <a href="http://naver.me/FDm4BB1o">download2</a> | <a href="http://naver.me/GYpkOyv2">download3</a>
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -25,6 +21,7 @@ This megapack and updater contains followings.
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
 ▶<a href="https://github.com/zakki/Ray" target="_blank">Ray</a> 2018 AI Ryusei Competition Version<br>
 ▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v2.1.1<br>
+▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v4.0.0(GLOBIS-AQZ)<br>
 ▶<a href="https://www.gnu.org/software/gnugo/" target="_blank">gnugo</a> v3.8<br>
 ▶<a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.40<br>
 ▶<a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
@@ -35,7 +32,7 @@ This megapack and updater contains followings.
 ▶<a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 333(12b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 334(12b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
@@ -47,7 +44,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-11 May, 2020
+12 May, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
