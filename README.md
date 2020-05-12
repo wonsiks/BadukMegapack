@@ -21,7 +21,7 @@ This megapack and updater contains followings.
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
 ▶<a href="https://github.com/zakki/Ray" target="_blank">Ray</a> 2018 AI Ryusei Competition Version<br>
 ▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v2.1.1<br>
-▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v4.0.0(GLOBIS-AQZ)<br>
+▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v4.0.0(GLOBIS-AQZ) : RTX users only<br>
 ▶<a href="https://www.gnu.org/software/gnugo/" target="_blank">gnugo</a> v3.8<br>
 ▶<a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.40<br>
 ▶<a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
