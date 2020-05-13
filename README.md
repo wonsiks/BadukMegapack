@@ -1,6 +1,6 @@
 # BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v4.1.200512a<br>
-<a href="https://drive.google.com/uc?export=download&id=1pXaAT35R0ED3CfVhSPcvGiXE8R_yottB">download1</a> | <a href="http://naver.me/xSjE8TWf">download2</a> | <a href="http://naver.me/FUwcGVT4">download3</a>
+Installer for various AI Baduk(Go) softwares v4.2.200513<br>
+<a href="https://drive.google.com/uc?export=download&id=1pww1opu9E-0rRtjao0ZnOdVy2FepZP-1">download1</a> | <a href="http://naver.me/G5udtlER">download2</a> | <a href="http://naver.me/x8GMxOwh">download3</a>
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
 
@@ -15,7 +15,7 @@ This megapack and updater contains followings.
 ▶MSVC++ 2012 Redistributable(x64)<br>
 ▶Java 1.8.0_201(x64)<br>
 
-▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.1<br>
+▶<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.2<br>
 ▶<a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 ▶<a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
@@ -32,7 +32,7 @@ This megapack and updater contains followings.
 ▶<a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 334(12b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 335(12b)<br>
 
 Lizzie will check new Leela Zero Best-network weight file when it starts.
 
@@ -44,7 +44,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-12 May, 2020
+13 May, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
