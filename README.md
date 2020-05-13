@@ -1,8 +1,9 @@
 # BadukMegapack for Windows
 Installer for various AI Baduk(Go) softwares v4.2.200513<br>
-<a href="https://drive.google.com/uc?export=download&id=1pww1opu9E-0rRtjao0ZnOdVy2FepZP-1">download1</a> | <a href="http://naver.me/G5udtlER">download2</a> | <a href="http://naver.me/x8GMxOwh">download3</a>
+<a href="https://drive.google.com/uc?export=download&id=16Opgl1bsxTAIOSeCSHWHcCzp_uPZwsZi">download1</a> | <a href="http://naver.me/FPaMWBD2">download2</a> | <a href="http://naver.me/FgtecSay">download3</a>
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
+Updating graphics card driver to latest version before installing megapack is recommended.
 
 This megapack and updater contains followings.
 
@@ -21,7 +22,7 @@ This megapack and updater contains followings.
 ▶<a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.5<br>
 ▶<a href="https://github.com/zakki/Ray" target="_blank">Ray</a> 2018 AI Ryusei Competition Version<br>
 ▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v2.1.1<br>
-▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v4.0.0(GLOBIS-AQZ) : RTX users only<br>
+▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v4.0.0(GLOBIS-AQZ) : CUDA v3.0 available users only<br>
 ▶<a href="https://www.gnu.org/software/gnugo/" target="_blank">gnugo</a> v3.8<br>
 ▶<a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.40<br>
 ▶<a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
