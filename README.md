@@ -2,8 +2,11 @@
 Installer for various AI Baduk(Go) softwares v4.2.200513<br>
 <a href="https://drive.google.com/uc?export=download&id=16Opgl1bsxTAIOSeCSHWHcCzp_uPZwsZi">download1</a> | <a href="http://naver.me/FPaMWBD2">download2</a> | <a href="http://naver.me/FgtecSay">download3</a>
 
-This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.
+This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.<br>
 Updating graphics card driver to latest version before installing megapack is recommended.
+
+(note) After install Megapack v4.2 then download following updater to update KaTrain to v1.0.5.<br>
+https://github.com/wonsiks/BadukMegapack/raw/master/KaTrain_v1.0.5_for_Megapack.exe
 
 This megapack and updater contains followings.
 
