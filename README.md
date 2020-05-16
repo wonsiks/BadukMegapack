@@ -5,15 +5,14 @@ Installer for various AI Baduk(Go) softwares v4.2.200513<br>
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.<br>
 Updating graphics card driver to latest version before installing megapack is recommended.
 
-(note) After install Megapack v4.2 then download following updater to update KaTrain to v1.0.5.<br>
-download from GitHub https://github.com/wonsiks/BadukMegapack/raw/master/KaTrain_v1.0.5_for_Megapack.exe<br>
-or download from Google Drive https://drive.google.com/uc?export=download&id=144q9M8-5jA1oMw_pOIjIyi5ihLRsRX_z<br>
+(Note) After install Megapack v4.2 then download following updater to update to v200516<br>
+<a href="https://drive.google.com/uc?export=download&id=1Bc5XUaukjYhBoLh7MKN3AXbE2fcwYWb5">download1</a> | <a href="http://naver.me/FaVxUSQ7">download2</a> | <a href="http://naver.me/51gSOnLL">download3</a>
 
-This megapack and updater contains followings.
+This megapack and updater 200516 contains followings.
 
 ▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.2 official release<br>
-▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.4.2 by kaorahi<br>
-▶<a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.0.4 by sanderland<br>
+▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.4.3 by kaorahi<br>
+▶<a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.0.5 by sanderland<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
 ▶MSVC++ 2015 Redistributable(x64)<br>
@@ -49,7 +48,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-13 May, 2020
+16 May, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
