@@ -1,12 +1,12 @@
 # BadukMegapack for Windows
 Installer for various AI Baduk(Go) softwares v4.2.200513<br>
-<a href="https://drive.google.com/uc?export=download&id=16Opgl1bsxTAIOSeCSHWHcCzp_uPZwsZi">download1</a> | <a href="https://mega.nz/file/jVoD0KiD">download2</a> | <a href="http://naver.me/FPaMWBD2">download3</a>
+<a href="https://drive.google.com/uc?export=download&id=16Opgl1bsxTAIOSeCSHWHcCzp_uPZwsZi">download1</a> | <a href="https://mega.nz/file/jVoD0KiD#QaOEgrrg79WjnDTu0Z11GmwKX8c6aU4XLfkCo7NVT8g">download2</a> | <a href="http://naver.me/FPaMWBD2">download3</a>
 
 This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.<br>
 Updating graphics card driver to latest version before installing megapack is recommended.
 
 (Note) After install Megapack v4.2 then download following updater to update to v200516<br>
-<a href="https://drive.google.com/uc?export=download&id=1Bc5XUaukjYhBoLh7MKN3AXbE2fcwYWb5">download1</a> | <a href="https://mega.nz/file/iIp3SKTS">download2</a> | <a href="http://naver.me/FaVxUSQ7">download3</a>
+<a href="https://drive.google.com/uc?export=download&id=1Bc5XUaukjYhBoLh7MKN3AXbE2fcwYWb5">download1</a> | <a href="https://mega.nz/file/iIp3SKTS#dCRSa8TBReMeQQOgHNnq7UquVdH671EkPw3hUmhVIVw">download2</a> | <a href="http://naver.me/FaVxUSQ7">download3</a>
 
 This megapack and updater 200516 contains followings.
 
