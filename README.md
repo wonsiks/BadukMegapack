@@ -6,7 +6,8 @@ This installer is made for baduk players who are not familiar with computer to u
 Updating graphics card driver to latest version before installing megapack is recommended.
 
 (note) After install Megapack v4.2 then download following updater to update KaTrain to v1.0.5.<br>
-https://github.com/wonsiks/BadukMegapack/raw/master/KaTrain_v1.0.5_for_Megapack.exe
+download from GitHub https://github.com/wonsiks/BadukMegapack/raw/master/KaTrain_v1.0.5_for_Megapack.exe<br>
+or download from Google Drive https://drive.google.com/uc?export=download&id=144q9M8-5jA1oMw_pOIjIyi5ihLRsRX_z<br>
 
 This megapack and updater contains followings.
 
