@@ -1,18 +1,18 @@
-# BadukMegapack for Windows
-Installer for various AI Baduk(Go) softwares v4.2.200513<br>
+# BadukMegapack v4.2.200513 for Windows
+This is an installer for various AI Baduk (Go) programs:<br>
 <a href="https://drive.google.com/uc?export=download&id=16Opgl1bsxTAIOSeCSHWHcCzp_uPZwsZi">download1</a> | <a href="https://mega.nz/file/jVoD0KiD#QaOEgrrg79WjnDTu0Z11GmwKX8c6aU4XLfkCo7NVT8g">download2</a> | <a href="http://naver.me/FPaMWBD2">download3</a>
 
-This installer is made for baduk players who are not familiar with computer to use baduk AI softwares easily.<br>
-Updating graphics card driver to latest version before installing megapack is recommended.
+The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
+Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) After install Megapack v4.2 then download following updater to update to v200516<br>
+(Note) After installing Megapack v4.2 you can download the following updater to update to version 200516:<br>
 <a href="https://drive.google.com/uc?export=download&id=1Bc5XUaukjYhBoLh7MKN3AXbE2fcwYWb5">download1</a> | <a href="https://mega.nz/file/iIp3SKTS#dCRSa8TBReMeQQOgHNnq7UquVdH671EkPw3hUmhVIVw">download2</a> | <a href="http://naver.me/FaVxUSQ7">download3</a>
 
-This megapack and updater 200516 contains followings.
+This megapack and updater 200516 contains the following programs:
 
 ▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.2 official release<br>
 ▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.4.3 by kaorahi<br>
-▶<a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.0.5 by sanderland<br>
+▶<a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.0.5 by Sander Land<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 ▶<a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
 ▶MSVC++ 2015 Redistributable(x64)<br>
@@ -38,9 +38,9 @@ This megapack and updater 200516 contains followings.
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
 ▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 335(12b)<br>
 
-Lizzie will check new Leela Zero Best-network weight file when it starts.
+Lizzie will check for the new Leela Zero Best-network weights file when it starts.
 
-(Bonus) Here's a light version of Megapack installer for 32bit Windows without GPU.<br>
+(Bonus) Here's a light version of the Megapack installer for 32bit Windows without GPU.<br>
 <a href="https://drive.google.com/uc?export=download&id=1HFDqtFOUf5DD0L0v6dEfAktRS9922Kvy">download1</a> | <a href="http://naver.me/5loiOVo0">download2</a>
 
 For more information visit https://blog.naver.com/wonsiksnz
