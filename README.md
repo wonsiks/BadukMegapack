@@ -1,12 +1,12 @@
-# BadukMegapack v4.2.200513 for Windows and Update 200517
+# BadukMegapack v4.2.200513 for Windows and Update 200520
 This is an installer for various AI Baduk (Go) programs:<br>
 <a href="https://drive.google.com/uc?export=download&id=16Opgl1bsxTAIOSeCSHWHcCzp_uPZwsZi">download1(Google drive)</a> | <a href="https://mega.nz/file/jVoD0KiD#QaOEgrrg79WjnDTu0Z11GmwKX8c6aU4XLfkCo7NVT8g">download2(Mega cloud)</a> | <a href="http://naver.me/FPaMWBD2">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) After installing Megapack v4.2 you can download the following updater to update to version 200517:<br>
-<a href="https://drive.google.com/uc?export=download&id=1qi37XkX4hexTnwv8xg0Iuhoct3M-oU7C">download1(Google drive)</a> | <a href="https://mega.nz/file/eQQCkQQR#EsXvkuml08kRILBxhQPTDYfRuuExDVS2XhdF5EpW1y0">download2(Mega cloud)</a> | <a href="http://naver.me/IDEhbKgR">download3(Naver cloud)</a>
+(Note) After installing Megapack v4.2 you can download the following updater to update to version 200520:<br>
+<a href="https://drive.google.com/uc?export=download&id=1Zm4i2xeCZS1T0L200uBcqFMa8loN5DT-">download1(Google drive)</a> | <a href="https://mega.nz/file/2EJjwKJI#Ew9Ifi5lf4F0WWIuw519zSVWwR3sn5A-KhEGwQ1CZ88">download2(Mega cloud)</a> | <a href="http://naver.me/Gbxm6lFj">download3(Naver cloud)</a>
 
 This megapack and updater 200516 contains the following programs:
 
@@ -27,7 +27,7 @@ This megapack and updater 200516 contains the following programs:
 ▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v2.1.1<br>
 ▶<a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v4.0.0(GLOBIS-AQZ) : CUDA v3.0 available users only<br>
 ▶<a href="https://www.gnu.org/software/gnugo/" target="_blank">gnugo</a> v3.8<br>
-▶<a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.45<br>
+▶<a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.50<br>
 ▶<a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
 
 ▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(5) : 271(40b), bjiyxo 266(20b), bjiyxo 270(15b), ZQ-i8(10b), Human(6b)<br>
@@ -48,7 +48,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-17 May, 2020
+20 May, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
