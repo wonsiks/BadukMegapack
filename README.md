@@ -1,14 +1,11 @@
-# BadukMegapack v4.2.200513 for Windows and Update 200604
+# BadukMegapack v4.2.200606 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=16Opgl1bsxTAIOSeCSHWHcCzp_uPZwsZi">download1(Google drive)</a> | <a href="https://mega.nz/file/jVoD0KiD#QaOEgrrg79WjnDTu0Z11GmwKX8c6aU4XLfkCo7NVT8g">download2(Mega cloud)</a> | <a href="http://naver.me/FPaMWBD2">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1MLAC-S1UteyQCllLcOitGPThSZOEavVj">download1(Google drive)</a> | <a href="https://mega.nz/file/OVQmFK5I#AiPLVZvnCPS-27ot1uapUCteVU9EE3HFq5tXogyirfQ">download2(Mega cloud)</a> | <a href="http://naver.me/GdWJeh9d">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) After installing Megapack v4.2 you can download the following updater to update to version 200604:<br>
-<a href="https://drive.google.com/uc?export=download&id=1ZJkMVBNwwRVreutmy_OT2IqF7Dr-jjYR">download1(Google drive)</a> | <a href="https://mega.nz/file/3JgF1TCL#UOSagmSp7-CI5hK49fTWHR8Z__4uSyKqc7itTKH4dR0">download2(Mega cloud)</a> | <a href="http://naver.me/54tX9zQi">download3(Naver cloud)</a>
-
-This megapack and updater 200604 contains the following programs:
+This megapack contains the following programs:
 
 ▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.2 official release<br>
 ▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre1 by kaorahi<br>
@@ -30,13 +27,13 @@ This megapack and updater 200604 contains the following programs:
 ▶<a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.50<br>
 ▶<a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
 
-▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(5) : 271(40b), bjiyxo 266(20b), bjiyxo 270(15b), ZQ-i8(10b), Human(6b)<br>
+▶<a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(5) : 273(40b), bjiyxo 266(20b), bjiyxo 270(15b), ZQ-i8(10b), Human(6b)<br>
 ▶<a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 ▶<a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
 ▶<a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 ▶<a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 ▶<a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 335(12b)<br>
+▶<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 360(12b)<br>
 
 Lizzie will check for the new Leela Zero Best-network weights file when it starts.
 
@@ -48,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-4 June, 2020
+6 June, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
