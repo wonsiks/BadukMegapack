@@ -1,14 +1,14 @@
-# BadukMegapack v4.2.200606 for Windows & Update 200609
+# BadukMegapack v4.2.200606 for Windows & Update 200613
 This is an installer for various AI Baduk (Go) programs:<br>
 <a href="https://drive.google.com/uc?export=download&id=1X4uWK82ObzlAKI8E2PdoIWRk-jEGATs_">download1(Google drive)</a> | <a href="https://mega.nz/file/mM4HGK7K#X2aRl28bfRPmINVlRTlCSGh43na4BNH2K6nl8zKvLlk">download2(Mega cloud)</a> | <a href="http://naver.me/FkpmzQWo">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200609:<br>
-<a href="https://drive.google.com/uc?export=download&id=1i6FInjG7RnBJQkTaYH0X8_RVRsXoE40W">download1(Google drive)</a> | <a href="https://mega.nz/file/yVwBQagR#xK8vvkB5ef9iucb9H5JFrL_lDvvQArttX9L6uZhOBXg">download2(Mega cloud)</a> | <a href="http://naver.me/FQhiFfud">download3(Naver cloud)</a>
+(Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200613:<br>
+<a href="https://drive.google.com/uc?export=download&id=18bK0QN-0NyGo3uaVgIKkb2QcKh1mPMkJ">download1(Google drive)</a> | <a href="https://mega.nz/file/GQphTTaJ#34kj0OgXYoGukUaddZR71xFfFv3X2PJZ2saE_t0HZd8">download2(Mega cloud)</a> | <a href="http://naver.me/FOsMyZwM">download3(Naver cloud)</a>
 
-This megapack and updater 200609 contains the following programs:
+This megapack and updater 200613 contains the following programs:
 
 ▶<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
 ▶<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre1 by kaorahi<br>
@@ -48,7 +48,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-9 June, 2020
+13 June, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
