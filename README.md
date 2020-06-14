@@ -18,7 +18,7 @@ This megapack contains the following programs:
 <li>MSVC++ 2015 Redistributable(x64)<br>
 <li>MSVC++ 2012 Redistributable(x64)<br>
 <li>Java 1.8.0_201(x64)<br>
-
+<br>
 <li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.4<br>
 <li><a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 <li><a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
@@ -29,7 +29,7 @@ This megapack contains the following programs:
 <li><a href="https://www.gnu.org/software/gnugo/" target="_blank">gnugo</a> v3.8<br>
 <li><a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.50<br>
 <li><a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
-
+<br>
 <li><a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(5) : 273(40b), bjiyxo 266(20b), bjiyxo 270(15b), ZQ-i8(10b), Human(6b)<br>
 <li><a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 <li><a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
@@ -37,7 +37,7 @@ This megapack contains the following programs:
 <li><a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <li><a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
 <li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 370(12b)<br>
-
+<br>
 Lizzie will check for the new Leela Zero and SAI Best-network weights file when it starts.
 
 (Bonus) Here's a light version of the Megapack installer for 32bit Windows without GPU.<br>
