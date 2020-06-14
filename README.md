@@ -5,7 +5,7 @@ This is an installer for various AI Baduk (Go) programs:<br>
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) I recommend you to install update to version 200614b and uninstall previous Megapack before install v4.3 in order to save tuning time:<br>
+(Note) I recommend you to install update version 200614b and then uninstall previous Megapack before install v4.3 in order to save tuning time:<br>
 <a href="https://drive.google.com/uc?export=download&id=1gY1K3EdB8xCkedbda1iypwBjhK7bIyMB">download1(Google drive)</a> | <a href="https://mega.nz/file/6NRgzYDS#Lp3KongFkRabHVDQ_dLXD9lJvnuT0CtO1Vmjj3g3a4c">download2(Mega cloud)</a> | <a href="http://naver.me/GmafnY0N">download3(Naver cloud)</a>
 
 This megapack contains the following programs:
