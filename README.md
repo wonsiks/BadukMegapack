@@ -6,7 +6,7 @@ The installer is intended for baduk players who want to use a variety of baduk A
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
 (Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200614:<br>
-<a href="https://drive.google.com/uc?export=download&id=1T2CKwzeZ8wG1ARXyE0Cfup1NiYYTJQJm">download1(Google drive)</a> | <a href="https://mega.nz/file/PQZjzaxD#NfU8sm2EaT3gSmJ772STR9pvUSq_JvnNGG7ehN3mz6I">download2(Mega cloud)</a> | <a href="http://naver.me/FN2GOVTf">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1lHc_w9fyXO9mU1nLjt3yCjrDWtv7nXxS">download1(Google drive)</a> | <a href="https://mega.nz/file/jc5VnAgT#44pvUMdfpiogIN9rzPIb5ySjklL3Z1NsQDppH4o1Iec">download2(Mega cloud)</a> | <a href="http://naver.me/FqViFOmb">download3(Naver cloud)</a>
 
 This megapack and updater 200614 contains the following programs:
 
