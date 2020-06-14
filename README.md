@@ -1,17 +1,17 @@
-# BadukMegapack v4.2.200606 for Windows & Update 200613
+# BadukMegapack v4.2.200606 for Windows & Update 200614
 This is an installer for various AI Baduk (Go) programs:<br>
 <a href="https://drive.google.com/uc?export=download&id=1X4uWK82ObzlAKI8E2PdoIWRk-jEGATs_">download1(Google drive)</a> | <a href="https://mega.nz/file/mM4HGK7K#X2aRl28bfRPmINVlRTlCSGh43na4BNH2K6nl8zKvLlk">download2(Mega cloud)</a> | <a href="http://naver.me/FkpmzQWo">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200613:<br>
-<a href="https://drive.google.com/uc?export=download&id=18bK0QN-0NyGo3uaVgIKkb2QcKh1mPMkJ">download1(Google drive)</a> | <a href="https://mega.nz/file/GQphTTaJ#34kj0OgXYoGukUaddZR71xFfFv3X2PJZ2saE_t0HZd8">download2(Mega cloud)</a> | <a href="http://naver.me/FOsMyZwM">download3(Naver cloud)</a>
+(Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200614:<br>
+<a href="https://drive.google.com/uc?export=download&id=1T2CKwzeZ8wG1ARXyE0Cfup1NiYYTJQJm">download1(Google drive)</a> | <a href="https://mega.nz/file/PQZjzaxD#NfU8sm2EaT3gSmJ772STR9pvUSq_JvnNGG7ehN3mz6I">download2(Mega cloud)</a> | <a href="http://naver.me/FN2GOVTf">download3(Naver cloud)</a>
 
-This megapack and updater 200613 contains the following programs:
+This megapack and updater 200614 contains the following programs:
 
 <a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
-<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre1 by kaorahi<br>
+<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre1.90 by kaorahi<br>
 <a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.1.2 by Sander Land<br>
 <a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
@@ -19,7 +19,7 @@ MSVC++ 2015 Redistributable(x64)<br>
 MSVC++ 2012 Redistributable(x64)<br>
 Java 1.8.0_201(x64)<br>
 
-<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.2<br>
+<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.3<br>
 <a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 <a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 <a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.6<br>
@@ -48,7 +48,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-13 June, 2020
+14 June, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
