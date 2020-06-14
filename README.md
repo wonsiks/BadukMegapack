@@ -1,17 +1,17 @@
-# BadukMegapack v4.2.200606 for Windows & Update 200614b
+# BadukMegapack v4.3.200615 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1X4uWK82ObzlAKI8E2PdoIWRk-jEGATs_">download1(Google drive)</a> | <a href="https://mega.nz/file/mM4HGK7K#X2aRl28bfRPmINVlRTlCSGh43na4BNH2K6nl8zKvLlk">download2(Mega cloud)</a> | <a href="http://naver.me/FkpmzQWo">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1Yu9AzQGe_7W2bC_XElJ8ihEzQv-Uz4NB">download1(Google drive)</a> | <a href="https://mega.nz/file/TZhVzBzI#YxE1yNC097-IWfaaz05CimectsGb8Sh-N5SQUurxZ90">download2(Mega cloud)</a> | <a href="http://naver.me/xeHAwgV5">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200614b:<br>
+(Note) I recommend you to install update to version 200614b and uninstall previous Megapack before install v4.3 in order to save tuning time:<br>
 <a href="https://drive.google.com/uc?export=download&id=1gY1K3EdB8xCkedbda1iypwBjhK7bIyMB">download1(Google drive)</a> | <a href="https://mega.nz/file/6NRgzYDS#Lp3KongFkRabHVDQ_dLXD9lJvnuT0CtO1Vmjj3g3a4c">download2(Mega cloud)</a> | <a href="http://naver.me/GmafnY0N">download3(Naver cloud)</a>
 
-This megapack and updater 200614b contains the following programs:
+This megapack contains the following programs:
 
 <a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
-<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre1.90 by kaorahi<br>
+<a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre2 by kaorahi<br>
 <a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.1.2 by Sander Land<br>
 <a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
@@ -36,7 +36,7 @@ Java 1.8.0_201(x64)<br>
 <a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 <a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 362(12b)<br>
+<a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 370(12b)<br>
 
 Lizzie will check for the new Leela Zero and SAI Best-network weights file when it starts.
 
@@ -48,7 +48,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-14 June, 2020
+15 June, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
