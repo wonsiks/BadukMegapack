@@ -1,14 +1,14 @@
-# BadukMegapack v4.2.200606 for Windows & Update 200614
+# BadukMegapack v4.2.200606 for Windows & Update 200614a
 This is an installer for various AI Baduk (Go) programs:<br>
 <a href="https://drive.google.com/uc?export=download&id=1X4uWK82ObzlAKI8E2PdoIWRk-jEGATs_">download1(Google drive)</a> | <a href="https://mega.nz/file/mM4HGK7K#X2aRl28bfRPmINVlRTlCSGh43na4BNH2K6nl8zKvLlk">download2(Mega cloud)</a> | <a href="http://naver.me/FkpmzQWo">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200614:<br>
-<a href="https://drive.google.com/uc?export=download&id=1lHc_w9fyXO9mU1nLjt3yCjrDWtv7nXxS">download1(Google drive)</a> | <a href="https://mega.nz/file/jc5VnAgT#44pvUMdfpiogIN9rzPIb5ySjklL3Z1NsQDppH4o1Iec">download2(Mega cloud)</a> | <a href="http://naver.me/FqViFOmb">download3(Naver cloud)</a>
+(Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200614a:<br>
+<a href="https://drive.google.com/uc?export=download&id=1p38UhRMfJG-lZPS0dksRMXrqsuAbqNVq">download1(Google drive)</a> | <a href="https://mega.nz/file/ndBzCIAK#IhMX8QPvnwZnmE543Op0pxQiAAPqSsctrUAUZ_QZyRU">download2(Mega cloud)</a> | <a href="http://naver.me/FMx1rIXM">download3(Naver cloud)</a>
 
-This megapack and updater 200614 contains the following programs:
+This megapack and updater 200614a contains the following programs:
 
 <a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
 <a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre1.90 by kaorahi<br>
@@ -19,7 +19,7 @@ MSVC++ 2015 Redistributable(x64)<br>
 MSVC++ 2012 Redistributable(x64)<br>
 Java 1.8.0_201(x64)<br>
 
-<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.3<br>
+<a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.4<br>
 <a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 <a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 <a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.6<br>
