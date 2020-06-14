@@ -1,14 +1,14 @@
-# BadukMegapack v4.2.200606 for Windows & Update 200614a
+# BadukMegapack v4.2.200606 for Windows & Update 200614b
 This is an installer for various AI Baduk (Go) programs:<br>
 <a href="https://drive.google.com/uc?export=download&id=1X4uWK82ObzlAKI8E2PdoIWRk-jEGATs_">download1(Google drive)</a> | <a href="https://mega.nz/file/mM4HGK7K#X2aRl28bfRPmINVlRTlCSGh43na4BNH2K6nl8zKvLlk">download2(Mega cloud)</a> | <a href="http://naver.me/FkpmzQWo">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200614a:<br>
-<a href="https://drive.google.com/uc?export=download&id=1p38UhRMfJG-lZPS0dksRMXrqsuAbqNVq">download1(Google drive)</a> | <a href="https://mega.nz/file/ndBzCIAK#IhMX8QPvnwZnmE543Op0pxQiAAPqSsctrUAUZ_QZyRU">download2(Mega cloud)</a> | <a href="http://naver.me/FMx1rIXM">download3(Naver cloud)</a>
+(Note) After installing Megapack v4.2.200606 you can download the following updater to update to version 200614b:<br>
+<a href="https://drive.google.com/uc?export=download&id=1gY1K3EdB8xCkedbda1iypwBjhK7bIyMB">download1(Google drive)</a> | <a href="https://mega.nz/file/6NRgzYDS#Lp3KongFkRabHVDQ_dLXD9lJvnuT0CtO1Vmjj3g3a4c">download2(Mega cloud)</a> | <a href="http://naver.me/GmafnY0N">download3(Naver cloud)</a>
 
-This megapack and updater 200614a contains the following programs:
+This megapack and updater 200614b contains the following programs:
 
 <a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
 <a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre1.90 by kaorahi<br>
