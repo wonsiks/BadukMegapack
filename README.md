@@ -10,7 +10,7 @@ Updating your graphics card drivers to latest version before installing the mega
 
 This megapack contains the following programs:
 
-<a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
+<li> <a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
 <a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre2 by kaorahi<br>
 <a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.1.2 by Sander Land<br>
 <a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
