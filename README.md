@@ -1,18 +1,18 @@
-# BadukMegapack v4.3.200615 for Windows
+# BadukMegapack v4.3.200615 for Windows & Update 200618
 This is an installer for various AI Baduk (Go) programs:<br>
 <a href="https://drive.google.com/uc?export=download&id=1pI5ixMp-5EP0iLhGk95DBoSDMwFz9AVy">download1(Google drive)</a> | <a href="https://mega.nz/file/WcwFHRRR#0sYUc4Y29vMkKpW0aMGn0PFRQLrkfydpfMbhr6zDm_s">download2(Mega cloud)</a> | <a href="http://naver.me/58hNbuP7">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) I recommend you to install update version 200614b and then uninstall previous Megapack before install v4.3 in order to save tuning time:<br>
-<a href="https://drive.google.com/uc?export=download&id=1gY1K3EdB8xCkedbda1iypwBjhK7bIyMB">download1(Google drive)</a> | <a href="https://mega.nz/file/6NRgzYDS#Lp3KongFkRabHVDQ_dLXD9lJvnuT0CtO1Vmjj3g3a4c">download2(Mega cloud)</a> | <a href="http://naver.me/GmafnY0N">download3(Naver cloud)</a>
+(Note) After installing Megapack v4.3.200615 you can download the following updater to update to version 200618:<br>
+<a href="https://drive.google.com/uc?export=download&id=1TbH-yXSU0s6iVicxYDvftvBqjgCLuBh3">download1(Google drive)</a> | <a href="https://mega.nz/file/rcgSTAjC#NV-NcJMA3SpxX2dq58CF-7J-TiGJ2TDh4WZUg3B-4Ug">download2(Mega cloud)</a> | <a href="http://naver.me/x5L2hGWT">download3(Naver cloud)</a>
 
-This megapack contains the following programs:
+This megapack and updater 200618 contains the following programs:
 
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
 <li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre2 by kaorahi<br>
-<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.1.2 by Sander Land<br>
+<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.2 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
 <li>MSVC++ 2015 Redistributable(x64)<br>
@@ -48,7 +48,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-15 June, 2020
+18 June, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
