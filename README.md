@@ -1,6 +1,6 @@
 # BadukMegapack v4.4 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=10BFJCQEcltHyKYzH9FiD8ilkxYSEgDbI">download1(Google drive)</a> | <a href="https://mega.nz/file/WcwFHRRR#0sYUc4Y29vMkKpW0aMGn0PFRQLrkfydpfMbhr6zDm_s">download2(Mega cloud)</a> | <a href="http://naver.me/5pGllR1I">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=10BFJCQEcltHyKYzH9FiD8ilkxYSEgDbI">download1(Google drive)</a> | <a href="https://mega.nz/file/XdxS2YYR#OmTX5OBsypoHJznT2v2C3kSGz9pXpnUOJs_mb4F2SQU">download2(Mega cloud)</a> | <a href="http://naver.me/5pGllR1I">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
