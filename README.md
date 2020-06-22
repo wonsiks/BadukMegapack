@@ -16,7 +16,7 @@ This megapack contains the following programs:
 <li>MSVC++ 2012 Redistributable(x64)<br>
 <li>Java 1.8.0_201(x64)<br>
 <br>
-<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.5<br>
+<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.5 by lightvector<br>
 <li><a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 <li><a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 <li><a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.6<br>
