@@ -66,4 +66,4 @@ Thanks.
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/run_lizgoban.png">
 
-<img src="https://github.com/sanderland/katrain/raw/master/screenshots/analysis.gif">
+<img src="https://raw.githubusercontent.com/sanderland/katrain/master/screenshots/analysis.png">
