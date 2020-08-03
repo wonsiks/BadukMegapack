@@ -1,14 +1,11 @@
-# BadukMegapack v4.4a for Windows & Update 200802
+# BadukMegapack v4.5 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1Qsp29lLxVnnGU4vn1UGjCdBs5_V06eep">download1(Google drive)</a> | <a href="https://mega.nz/file/3cA0EACI#MERcWCK4Rpx_hsolaZi0mJmHt5jmjqXEL773FJLo9vY">download2(Mega cloud)</a> | <a href="http://naver.me/G5u0MIIr">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1UnAaQcMcBtoehRJxNKTLmWJtLDgj2plZ">download1(Google drive)</a> | <a href="https://mega.nz/file/7J4R0aqS#WdO1zOlsxQUBbVRU8pqfeNJkEp9RTuk53qm8FoMk4a8">download2(Mega cloud)</a> | <a href="http://naver.me/Gwaowrz0">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-(Note) After installing Megapack v4.4a you can download the following updater to update to version 200802:<br>
-<a href="https://drive.google.com/uc?export=download&id=1_gZgKKF3MRKnEA31iL5ewdjEsNNnVckX">download1(Google drive)</a> | <a href="https://mega.nz/file/SFxhxbKR#5tv1IrNLB0QkzNiYvk6PrLohLof8-ntYPqGN3itCW0E">download2(Mega cloud)</a> | <a href="http://naver.me/5yk6SAlq">download3(Naver cloud)</a>
-
-This megapack and updater 200802 contains the following programs:
+This megapack contains the following programs:
 
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
 <li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre2 by kaorahi<br>
@@ -19,7 +16,7 @@ This megapack and updater 200802 contains the following programs:
 <li>MSVC++ 2012 Redistributable(x64)<br>
 <li>Java 1.8.0_201(x64)<br>
 <br>
-<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.4.5 by lightvector<br>
+<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.5.0 by lightvector<br>
 <li><a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 <li><a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 <li><a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.17.6<br>
@@ -36,7 +33,7 @@ This megapack and updater 200802 contains the following programs:
 <li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 <li><a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <li><a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 427(12b)<br>
+<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 433(12b)<br>
 <br>
 Lizzie will check for the new Leela Zero and SAI Best-network weights file when it starts.
 
@@ -48,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-2 August, 2020
+4 August, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
