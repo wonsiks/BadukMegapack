@@ -1,15 +1,18 @@
-# BadukMegapack v4.5 for Windows
+# BadukMegapack v4.5 for Windows & Update 200810
 This is an installer for various AI Baduk (Go) programs:<br>
 <a href="https://drive.google.com/uc?export=download&id=1UnAaQcMcBtoehRJxNKTLmWJtLDgj2plZ">download1(Google drive)</a> | <a href="https://mega.nz/file/7J4R0aqS#WdO1zOlsxQUBbVRU8pqfeNJkEp9RTuk53qm8FoMk4a8">download2(Mega cloud)</a> | <a href="http://naver.me/Gwaowrz0">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
-This megapack contains the following programs:
+(Note) After installing Megapack v4.5 you can download the following updater to update to version 200810:<br>
+<a href="https://drive.google.com/uc?export=download&id=1QxHOcHbiw8Q_7B-ulo8OwMvoKai8M92A">download1(Google drive)</a> | <a href="https://mega.nz/file/fQBHzKhC#d3WheuY2ST3C2LrjISSPLC74wxCiWR3ozCVFH_Tx_Uo">download2(Mega cloud)</a> | <a href="http://naver.me/GeYydpFZ">download3(Naver cloud)</a>
+
+This megapack and updater 200810 contains the following programs:
 
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
-<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre2 by kaorahi<br>
-<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.3.3 by Sander Land<br>
+<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre3 by kaorahi<br>
+<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.3.4 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
 <li>MSVC++ 2015 Redistributable(x64)<br>
@@ -45,7 +48,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-4 August, 2020
+10 August, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
