@@ -1,4 +1,4 @@
-# BadukMegapack v4.6.1 for Windows & Update 200905
+# BadukMegapack v4.6.1 for Windows & Update 200919
 This is an installer for various AI Baduk (Go) programs:<br>
 <a href="https://drive.google.com/uc?export=download&id=1ZHiN0LFBLCFPd2HjF19eKHC7SdDeEBEG">download1(Google drive)</a> | <a href="https://mega.nz/file/eNI3gaYK#C1NdvbtEzH4Dz_3jDg90CGrvoRMMRqyFwRlSMvnTygI">download2(Mega cloud)</a> | <a href="http://naver.me/53Yej5XE">download3(Naver cloud)</a>
 
@@ -6,13 +6,13 @@ The installer is intended for baduk players who want to use a variety of baduk A
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
 (Note) After installing Megapack v4.6.1 you can download the following updater to update to version 200905:<br>
-<a href="https://drive.google.com/uc?export=download&id=1Vh5Awit3XTJRVPU5EdaUe5IfDCq2byFZ">download1(Google drive)</a> | <a href="https://mega.nz/file/OF5gAYyQ#WWjsklenhAn8DE0p3dLfF-mPfB9BPnZ5HHD5UksrXe8">download2(Mega cloud)</a> | <a href="http://naver.me/5B5R7b82">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1E0Yl5malh9oP4QLhX2y1hzQZJ-Gcsg1s">download1(Google drive)</a> | <a href="https://mega.nz/file/nVxmXK7L#NNQHaSjA_CE0JHBHSy62QBcuWq4_EtodbU29aIWMIzI">download2(Mega cloud)</a> | <a href="http://naver.me/5me20T27">download3(Naver cloud)</a>
 
-This megapack and updater 200905 contains the following programs:
+This megapack and updater 200919 contains the following programs:
 
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.3 by featurecat<br>
 <li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre5 by kaorahi<br>
-<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.4 by Sander Land<br>
+<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.5 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
 <li>MSVC++ 2015 Redistributable(x64)<br>
@@ -48,7 +48,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-5 September, 2020
+19 September, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
