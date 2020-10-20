@@ -1,15 +1,17 @@
-# BadukMegapack v4.7 for Windows
+# BadukMegapack v4.7.2 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=19ZQWFz7MOYL8UQGdjfTTVPq52LuEWQMi">download1(Google drive)</a> | <a href="https://mega.nz/file/qAJQiTpR#yaPOLI8fIh2McF_CBCqvAGkaWAcx5J-aVyJ5qBKyq-U">download2(Mega cloud)</a> | <a href="http://naver.me/5X31psjA">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1kSzTwkWcVqerq-HyLG2GkEb2ceZ3dGVn">download1(Google drive)</a> | <a href="https://mega.nz/file/2EJASDxD#OweCajju6hLL75qar4iAvSbjGGNquWPCmZ-JKW7x9e8">download2(Mega cloud)</a> | <a href="http://naver.me/Ixv9bz9u">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
 
+(caution) If you're using NVIDIA RTX 30 series then you must choose graphics card option 2 when you install megapack.
+
 This megapack contains the following programs:
 
-<li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 by featurecat<br>
-<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre5 by kaorahi<br>
-<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.5 by Sander Land<br>
+<li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 improvement by hope366(forked from featurecat)<br>
+<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.5.0-pre6 by kaorahi<br>
+<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.5.1 pre-release by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
 <li>MSVC++ 2015 Redistributable(x64)<br>
@@ -27,13 +29,13 @@ This megapack contains the following programs:
 <li><a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.50<br>
 <li><a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
 <br>
-<li><a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(5) : 276(40b), bjiyxo 266(20b), bjiyxo 270(15b), ZQ-i8(10b), Human(6b)<br>
+<li><a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(5) : 278(40b), bjiyxo 266(20b), bjiyxo 270(15b), ZQ-i8(10b), Human(6b)<br>
 <li><a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 <li><a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
 <li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(6) : 40x256, 30x320, 20x256, 15x192, 10x128, 6x96<br>
 <li><a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <li><a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 494(12b)<br>
+<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 516(12b)<br>
 <br>
 Lizzie will check for the new Leela Zero and SAI Best-network weights file when it starts.
 
@@ -45,7 +47,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-29 September, 2020
+20 October, 2020
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
