@@ -39,7 +39,7 @@ This megapack contains the following programs:
 Lizzie will check for the new Leela Zero and SAI Best-network weights file when it starts.
 
 (Bonus) Here's a light version of the Megapack installer for 32bit Windows without GPU.<br>
-<a href="https://drive.google.com/uc?export=download&id=1vKjdwVZ-TlCANfVjc_GkGD0n9PEXOj6T">download1</a> | <a href="http://naver.me/xfhmclWf">download2</a>
+<a href="https://drive.google.com/uc?export=download&id=1QFxv-uxqjeWhAYRwuPPOFXQepjikUgTy">download1</a> | <a href="http://naver.me/xv0d4gX1">download2</a>
 
 For more information visit https://blog.naver.com/wonsiksnz
 
