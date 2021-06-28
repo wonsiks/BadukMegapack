@@ -11,7 +11,6 @@ This megapack contains the following programs:
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 improvement(v2.5) by <a href="https://github.com/hope366/Lizzie-improvements">hope366</a>(forked from featurecat)<br>
 <li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.6.1 by kaorahi<br>
 <li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.9.1 by Sander Land<br>
-<li><a href="https://github.com/kinfkong/katago-colab" target="_blank">colab-katago</a> v1.4.5 by kinfkong<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.51.1<br>
 <li>MSVC++ 2015 Redistributable(x64)<br>
