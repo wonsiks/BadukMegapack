@@ -1,6 +1,6 @@
-# BadukMegapack v4.11.2 for Windows
+# BadukMegapack v4.11.2a for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1Z4K9nh4tT38ugTzUAZtL_-rjyMQW08_i">download1(Google drive)</a> | <a href="https://mega.nz/file/3BwRmASQ#z6AyXqmBltWQbl8bi6nJQc0hoG5QT7-nOW3KC_0j9-0">download2(Mega cloud)</a> | <a href="http://naver.me/FlPyJXba">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1mmu-Sdjnr-l6Ax5XVJx7kEhTPy2_EOYz">download1(Google drive)</a> | <a href="https://mega.nz/file/rFRyBTyS#_dRO8_GqoRRIJKmuIWev-wRsVhQo6_NlwJP6gzo4Kfc">download2(Mega cloud)</a> | <a href="http://naver.me/Gs4swRR7">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -33,7 +33,7 @@ This megapack contains the following programs:
 <li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(4) : 40x256(kata1-s10336), 20x256, 15x192, 6x96<br>
 <li><a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <li><a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 814(20b)<br>
+<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 819(20b)<br>
 <br>
 Lizzie will check for the new Leela Zero and SAI Best-network weights file when it starts.
 
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-17 Nov, 2021
+25 Nov, 2021
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
