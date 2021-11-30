@@ -1,6 +1,6 @@
-# BadukMegapack v4.11.2a for Windows
+# BadukMegapack v4.11.2b for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1mmu-Sdjnr-l6Ax5XVJx7kEhTPy2_EOYz">download1(Google drive)</a> | <a href="https://mega.nz/file/rFRyBTyS#_dRO8_GqoRRIJKmuIWev-wRsVhQo6_NlwJP6gzo4Kfc">download2(Mega cloud)</a> | <a href="http://naver.me/Gs4swRR7">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1kkaRuK4o85szTpAZNaBMv4MHVasO7H3s">download1(Google drive)</a> | <a href="https://mega.nz/file/nR5gwRqZ#OwrKrgELhJA7RP7ScomiCCfFlKbgvrqshLRygz7Z1UU">download2(Mega cloud)</a> | <a href="http://naver.me/F4XvWR9s">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -30,10 +30,10 @@ This megapack contains the following programs:
 <li><a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(4) : 287(40b), bjiyxo 266(20b), bjiyxo 270(15b), Human(6b)<br>
 <li><a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 <li><a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
-<li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(4) : 40x256(kata1-s10336), 20x256, 15x192, 6x96<br>
+<li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(4) : 40x256(kata1-s10359), 20x256, 15x192, 6x96<br>
 <li><a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <li><a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 819(20b)<br>
+<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 821(20b)<br>
 <br>
 Lizzie will check for the new Leela Zero and SAI Best-network weights file when it starts.
 
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-25 Nov, 2021
+30 Nov, 2021
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
