@@ -1,6 +1,6 @@
-# BadukMegapack v4.11.4 for Windows
+# BadukMegapack v4.11.5 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=14qGylpi9fZwfFRknFwgFicPkHUN3daSK">download1(Google drive)</a> | <a href="https://mega.nz/file/2AAChb4C#AiszEZkxuxWfFRvmtDAPlZmDlwDiJkO-ShfKyugwf8M">download2(Mega cloud)</a> | <a href="http://naver.me/GwDbfRtW">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1r_DgtE9UfXy8c9PP1ykqhE6s9CiwbIZq">download1(Google drive)</a> | <a href="https://mega.nz/file/6IBWxbQQ#Uf-1wWksdrY-V7Xwsv9OI7b7_VqIBeM9HxjKVgkg7hA">download2(Mega cloud)</a> | <a href="http://naver.me/FdEZYkat">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -17,7 +17,7 @@ This megapack contains the following programs:
 <li>MSVC++ 2015 Redistributable(x64)<br>
 <li>MSVC++ 2012 Redistributable(x64)<br>
 <br>
-<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.10.0a by lightvector<br>
+<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.11.0 by lightvector<br>
 <li><a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 <li><a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 <li><a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.18.2<br>
@@ -33,7 +33,7 @@ This megapack contains the following programs:
 <li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(4) : 40x256(kata1-s11101), 20x256, 15x192, 6x96<br>
 <li><a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <li><a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 856(20b)<br>
+<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 873(20b)<br>
 <br>
 Lizzie will check for the new Leela Zero and SAI Best-network weights file when it starts.
 
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-1 Feb, 2022
+21 Mar, 2022
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
