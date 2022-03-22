@@ -1,6 +1,6 @@
-# BadukMegapack v4.11.5 for Windows
+# BadukMegapack v4.11.6 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1r_DgtE9UfXy8c9PP1ykqhE6s9CiwbIZq">download1(Google drive)</a> | <a href="https://mega.nz/file/6IBWxbQQ#Uf-1wWksdrY-V7Xwsv9OI7b7_VqIBeM9HxjKVgkg7hA">download2(Mega cloud)</a> | <a href="http://naver.me/FdEZYkat">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=11DPS7_kKCr6ER6mv-tQyozcfc0wcxAUc">download1(Google drive)</a> | <a href="https://mega.nz/file/XBJDiT4Q#Fsg3vNYWW0LTx7bLAlYK6eaJYqjR2i3iIHp8-qlnyXU">download2(Mega cloud)</a> | <a href="http://naver.me/5pj9bTox">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -9,7 +9,7 @@ Updating your graphics card drivers to latest version before installing the mega
 This megapack contains the following programs:
 
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 improvement(v3.0) by <a href="https://github.com/hope366/Lizzie-improvements">hope366</a>(forked from featurecat)<br>
-<li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.4.7 by yzyray<br>
+<li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.4.8 by yzyray<br>
 <li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.7.0 pre2 by kaorahi<br>
 <li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.10.1 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-21 Mar, 2022
+22 Mar, 2022
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
