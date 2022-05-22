@@ -1,6 +1,6 @@
-# BadukMegapack v4.13.0 for Windows
+# BadukMegapack v4.14.0 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1QvBaujugpZogjkn2_1jVOsHI6VvrIFK7">download1(Google drive)</a> | <a href="https://mega.nz/file/fA5XFYrT#cSxJPzgQTsIu6Lnw4h2KTxSuNEHbCQR4xopPtC6mCP8">download2(Mega cloud)</a> | <a href="http://naver.me/5cDnBkFB">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1zpYhstMLAsBMvV4pfn4rdiFA3xUC_FWc">download1(Google drive)</a> | <a href="https://mega.nz/file/3dRxmCSa#qCG_bT8Vkq0kwnZtW4iEpW1ZQXnrTHJjhv_A2eDL-h0">download2(Mega cloud)</a> | <a href="http://naver.me/FoWPiLBl">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -9,8 +9,8 @@ Updating your graphics card drivers to latest version before installing the mega
 This megapack contains the following programs:
 
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 improvement(v3.1) by <a href="https://github.com/hope366/Lizzie-improvements">hope366</a>(forked from featurecat)<br>
-<li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.5.0 by yzyray<br>
-<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.7.0-pre4 by kaorahi<br>
+<li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.5.0-p220520 by yzyray<br>
+<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.7.0 by kaorahi<br>
 <li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.11.0 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.52.0<br>
@@ -33,7 +33,7 @@ This megapack contains the following programs:
 <li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(4) : 40x256(kata1-s11101), 20x256, 15x192, 6x96<br>
 <li><a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <li><a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
-<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 893(20b)<br>
+<li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 895(20b)<br>
 <br>
 Lizzie will check for the new Leela Zero and SAI Best-network weights file when it starts.
 
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-16 May, 2022
+22 May, 2022
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
