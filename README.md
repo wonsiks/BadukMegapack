@@ -1,6 +1,6 @@
-# BadukMegapack v4.16.0 for Windows
+# BadukMegapack v4.16.2 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1NSIDc9VLwvX9QC2FSFN1OvFnICM_ASa5">download1(Google drive)</a> | <a href="https://mega.nz/file/znRQyDyb#0sId_p-ATZVeUcuSXzcoXK59AwAmuziEJTb-IStuOY8">download2(Mega cloud)</a> | <a href="http://naver.me/G2Vyjnnk">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=183bwdhU1vlNFKEGMSoWDj3aykXXeEW3o">download1(Google drive)</a> | <a href="https://mega.nz/file/On5xnDZY#8BXbOa6tncfiIPraJAkrcS1sPoOc2F_bpqaDiiAj6u4">download2(Mega cloud)</a> | <a href="http://naver.me/52hygqQm">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -11,13 +11,13 @@ This megapack contains the following programs:
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 improvement(v3.1) by <a href="https://github.com/hope366/Lizzie-improvements">hope366</a>(forked from featurecat)<br>
 <li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.5.1 by yzyray<br>
 <li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.7.0 by kaorahi<br>
-<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.12.0 by Sander Land<br>
+<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.12.1 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.52.2<br>
 <li>MSVC++ 2015 Redistributable(x64)<br>
 <li>MSVC++ 2012 Redistributable(x64)<br>
 <br>
-<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.12.0 by lightvector<br>
+<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.12.2 by lightvector<br>
 <li><a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 <li><a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 <li><a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.18.2<br>
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-8 Jan, 2023
+11 Jan, 2023
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
