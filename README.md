@@ -1,6 +1,6 @@
-# BadukMegapack v4.16.5 for Windows
+# BadukMegapack v4.16.6 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1CycK9ibdyCvvbUg6Qy5cKbcxaYvERhid">download1(Google drive)</a> | <a href="https://mega.nz/file/a75lGLTa#fU_adPP0oBZYg1ML24qUQ_-08oB7Q2ZCOrE205Nql6E">download2(Mega cloud)</a> | <a href="http://naver.me/5nP9s1Fv">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1RvnNzhDullc5B0ySMeJbG1uMUwQLnPzx">download1(Google drive)</a> | <a href="https://mega.nz/file/LioizbjK#qK_JorlS4b_fI0DnqIRmiCrK8KnGdG1rL5Hf-xqvM_c">download2(Mega cloud)</a> | <a href="http://naver.me/F8nWk4Nd">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -9,7 +9,7 @@ Updating your graphics card drivers to latest version before installing the mega
 This megapack contains the following programs:
 
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 improvement(v3.1) by <a href="https://github.com/hope366/Lizzie-improvements">hope366</a>(forked from featurecat)<br>
-<li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.5.1 by yzyray<br>
+<li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.5.2 by yzyray<br>
 <li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.7.0 by kaorahi<br>
 <li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.12.3 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-26 Jan, 2023
+2 Feb, 2023
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
