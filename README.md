@@ -1,6 +1,6 @@
-# BadukMegapack v4.16.6 for Windows
+# BadukMegapack v4.16.7 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1RvnNzhDullc5B0ySMeJbG1uMUwQLnPzx">download1(Google drive)</a> | <a href="https://mega.nz/file/LioizbjK#qK_JorlS4b_fI0DnqIRmiCrK8KnGdG1rL5Hf-xqvM_c">download2(Mega cloud)</a> | <a href="http://naver.me/F8nWk4Nd">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1KbJRfsxlYdd-pBlzLhs14JeSEfko6IYR">download1(Google drive)</a> | <a href="https://mega.nz/file/LioizbjK#qK_JorlS4b_fI0DnqIRmiCrK8KnGdG1rL5Hf-xqvM_c">download2(Mega cloud)</a> | <a href="http://naver.me/51nwXM6K">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -24,7 +24,7 @@ This megapack contains the following programs:
 <li><a href="https://github.com/zakki/Ray" target="_blank">Ray</a> 2018 AI Ryusei Competition Version<br>
 <li><a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v2.1.1<br>
 <li><a href="https://www.gnu.org/software/gnugo/" target="_blank">gnugo</a> v3.8<br>
-<li><a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.60<br>
+<li><a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.70<br>
 <li><a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
 <br>
 <li><a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(4) : 287(40b), bjiyxo 266(20b), bjiyxo 270(15b), Human(6b)<br>
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-2 Feb, 2023
+18 Feb, 2023
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
