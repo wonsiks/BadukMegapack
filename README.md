@@ -1,6 +1,6 @@
-# BadukMegapack v4.18.0 for Windows
+# BadukMegapack v4.18.1 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1HmaiWatW-iyPqxeBIYZcpLtgZFd7-9iA">download1(Google drive)</a> | <a href="https://mega.nz/file/urBQBajT#Ro0Wg5DlfCiPxxJphzZ1fvyYXHh_nZs4EYP5isge3_M">download2(Mega cloud)</a> | <a href="http://naver.me/FmVSKvYO">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1vqNoxS-Vi41XvkQ9s0D9BlJQkt86pFiA">download1(Google drive)</a> | <a href="https://mega.nz/file/2jo1FKAC#SEEFuXzwBhxv19bPq8gT8zsG-70RPdfBE9-Kq5jB3q4">download2(Mega cloud)</a> | <a href="http://naver.me/GJFIcKTg">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -11,7 +11,7 @@ This megapack contains the following programs:
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 improvement(v3.1) by <a href="https://github.com/hope366/Lizzie-improvements">hope366</a>(forked from featurecat)<br>
 <li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.5.2 by yzyray<br>
 <li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.8.0-pre1 by kaorahi<br>
-<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.12.3 by Sander Land<br>
+<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.13.0 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.52.2<br>
 <li>MSVC++ 2015 Redistributable(x64)<br>
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-23 May, 2023
+28 May, 2023
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
