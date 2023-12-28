@@ -1,6 +1,6 @@
-# BadukMegapack v4.18.1 for Windows
+# BadukMegapack v4.19.0 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1vqNoxS-Vi41XvkQ9s0D9BlJQkt86pFiA">download1(Google drive)</a> | <a href="https://mega.nz/file/2jo1FKAC#SEEFuXzwBhxv19bPq8gT8zsG-70RPdfBE9-Kq5jB3q4">download2(Mega cloud)</a> | <a href="http://naver.me/GJFIcKTg">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1gskBkKGgQth0DUsAmZsJsKn9nHf27ASK">download1(Google drive)</a> | <a href="https://mega.nz/file/67phQIhA#4UmRY6PBanOjkRrCWPmInQ4KPcB2f2ffYFHkI--uFmw">download2(Mega cloud)</a> | <a href="http://naver.me/5XTFQVvj">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -10,21 +10,21 @@ This megapack contains the following programs:
 
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 improvement(v3.1) by <a href="https://github.com/hope366/Lizzie-improvements">hope366</a>(forked from featurecat)<br>
 <li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.5.2 by yzyray<br>
-<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.8.0-pre1 by kaorahi<br>
-<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.13.0 by Sander Land<br>
+<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.8.0-pre4 by kaorahi<br>
+<li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.14.0 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.52.2<br>
 <li>MSVC++ 2015 Redistributable(x64)<br>
 <li>MSVC++ 2012 Redistributable(x64)<br>
 <br>
-<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.13.0 by lightvector<br>
+<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.14.0 by lightvector<br>
 <li><a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 <li><a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 <li><a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.18.2<br>
 <li><a href="https://github.com/zakki/Ray" target="_blank">Ray</a> 2018 AI Ryusei Competition Version<br>
 <li><a href="https://github.com/ymgaq/AQ" target="_blank">AQ</a> v2.1.1<br>
 <li><a href="https://www.gnu.org/software/gnugo/" target="_blank">gnugo</a> v3.8<br>
-<li><a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.80<br>
+<li><a href="https://github.com/pasky/pachi" target="_blank">pachi</a> v12.84<br>
 <li><a href="https://sourceforge.net/projects/fuego/" target="_blank">Fuego</a> v1.1.4<br>
 <br>
 <li><a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(4) : 287(40b), bjiyxo 266(20b), bjiyxo 270(15b), Human(6b)<br>
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-28 May, 2023
+28 December, 2023
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
