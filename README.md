@@ -1,6 +1,6 @@
-# BadukMegapack v4.19.1 for Windows
+# BadukMegapack v4.19.2 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1KiEVF8Ohl4zvNqTjIE7UGgKNculk6UbI">download1(Google drive)</a> | <a href="https://mega.nz/file/HzBHnazb#GyzW2nLv5Vty_GbMp1oLJKiY3XRc6Sb1f3AukpCF9O0">download2(Mega cloud)</a> | <a href="http://naver.me/5WHLa5u6">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1KMuOTuqxm8DsPY0WsokDC7Ku6aT1xFrO">download1(Google drive)</a> | <a href="https://mega.nz/file/DqQwGQRZ#g5waL1pHyGNQkKg1RXe8_UbptDx8eL2NYGLjOLxgA40">download2(Mega cloud)</a> | <a href="http://naver.me/xjJwHfv0">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -30,7 +30,7 @@ This megapack contains the following programs:
 <li><a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(4) : 287(40b), bjiyxo 266(20b), bjiyxo 270(15b), Human(6b)<br>
 <li><a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 <li><a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
-<li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(5) : 40x256, 20x256, 18x384, 15x192, 6x96<br>
+<li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(7) : 40x256, 28x512, 20x256, 18x384, 18x384(9x9)15x192, 6x96<br>
 <li><a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <li><a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
 <li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 915(20b)<br>
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-30 December, 2023
+13 January, 2024
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
