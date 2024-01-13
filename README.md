@@ -30,7 +30,7 @@ This megapack contains the following programs:
 <li><a href="http://zero.sjeng.org/" target="_blank">LeelaZero</a> weight file(4) : 287(40b), bjiyxo 266(20b), bjiyxo 270(15b), Human(6b)<br>
 <li><a href="https://github.com/pytorch/ELF" target="_blank">ELF Opengo</a> weight file(1) : v2<br>
 <li><a href="https://github.com/tensorflow/minigo" target="_blank">MiniGo</a> weight file(1) : v17(990)<br>
-<li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(7) : 40x256, 28x512, 20x256, 18x384, 18x384(9x9)15x192, 6x96<br>
+<li><a href="https://d3dndmfyhecmj0.cloudfront.net/index.html">KataGo</a> weight file(7) : 40x256, 28x512, 20x256, 18x384, 18x384(9x9), 15x192, 6x96<br>
 <li><a href="https://github.com/pangafu/LeelaMasterWeight" target="_blank">LeelaMaster</a> weight files(1) : GXAA<br>
 <li><a href="https://github.com/Tencent/PhoenixGo" target="_blank">PhoenixGo</a> weight file(1) : v1<br>
 <li><a href="http://sai.unich.it/" target="_blank">SAI</a> weight file(1) : 915(20b)<br>
