@@ -1,6 +1,6 @@
-# BadukMegapack v4.19.2 for Windows
+# BadukMegapack v4.20.0 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1KMuOTuqxm8DsPY0WsokDC7Ku6aT1xFrO">download1(Google drive)</a> | <a href="https://mega.nz/file/DqQwGQRZ#g5waL1pHyGNQkKg1RXe8_UbptDx8eL2NYGLjOLxgA40">download2(Mega cloud)</a> | <a href="http://naver.me/xjJwHfv0">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1AU1qPVeHqwVd0zZgPZF_PDsU3IpBMCc0">download1(Google drive)</a> | <a href="https://mega.nz/file/3rgRnIjS#yk3QxC9asXvBvmuUIqEr1FZU5gQHTlKSf_ywkNtAeks">download2(Mega cloud)</a> | <a href="http://naver.me/xb735b7s">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -17,7 +17,7 @@ This megapack contains the following programs:
 <li>MSVC++ 2015 Redistributable(x64)<br>
 <li>MSVC++ 2012 Redistributable(x64)<br>
 <br>
-<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.14.0 by lightvector<br>
+<li><a href="https://github.com/lightvector/KataGo" target="_blank">KataGo</a> v1.14.1 by lightvector<br>
 <li><a href="https://github.com/leela-zero/leela-zero" target="_blank">LeelaZero</a> v0.17 TensorCore<br>
 <li><a href="https://sjeng.org/leela.html" target="_blank">Leela</a> v0.11.0<br>
 <li><a href="https://github.com/sai-dev/sai" target="_blank">SAI</a> v0.18.2<br>
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-13 January, 2024
+12 March, 2024
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
