@@ -1,6 +1,6 @@
-# BadukMegapack v4.21.2 for Windows
+# BadukMegapack v4.21.3 for Windows
 This is an installer for various AI Baduk (Go) programs:<br>
-<a href="https://drive.google.com/uc?export=download&id=1dd7WIPHzg1jhJFYHLGj2lTY9gQCX-n0N">download1(Google drive)</a> | <a href="https://mega.nz/file/3yxXkCBJ#rr-1XDcbBNaEzqNdPrHJqQHXw2v2VpNpIZI0voU5eRA">download2(Mega cloud)</a> | <a href="http://naver.me/GalMtFny">download3(Naver cloud)</a>
+<a href="https://drive.google.com/uc?export=download&id=1maDdwuHEonnZeAy-Jxp0L0-Z1Cg4I1PI">download1(Google drive)</a> | <a href="https://mega.nz/file/K6hyFKJK#owb4v46ooFkYXWog85ilyr2X_tHyvPETHBlNDD0nFGk">download2(Mega cloud)</a> | <a href="http://naver.me/5oEQxgJ6">download3(Naver cloud)</a>
 
 The installer is intended for baduk players who want to use a variety of baduk AI programs easily, without requiring technically complicated installations.<br>
 Updating your graphics card drivers to latest version before installing the megapack is recommended.
@@ -10,7 +10,7 @@ This megapack contains the following programs:
 
 <li><a href="https://github.com/featurecat/lizzie" target="_blank">Lizzie</a> v0.7.4 improvement(v3.1) by <a href="https://github.com/hope366/Lizzie-improvements">hope366</a>(forked from featurecat)<br>
 <li><a href="https://github.com/yzyray/lizzieyzy" target="_blank">LizzieYZY</a> v2.5.3 by yzyray<br>
-<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.8.0-pre5 by kaorahi<br>
+<li><a href="https://github.com/kaorahi/lizgoban" target="_blank">LizGoban</a> v0.8.0-pre6 by kaorahi<br>
 <li><a href="https://github.com/sanderland/katrain" target="_blank">KaTrain</a> v1.14.0 by Sander Land<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.43.3<br>
 <li><a href="https://github.com/SabakiHQ/Sabaki" target="_blank">Sabaki</a> v0.52.2<br>
@@ -45,7 +45,7 @@ For more information visit https://blog.naver.com/wonsiksnz
 Thanks.
 
 
-7 August, 2024
+11 August, 2024
 
 <img src="https://github.com/wonsiks/BadukMegapack/blob/master/megapack.png">
 
